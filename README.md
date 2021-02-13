@@ -1,6 +1,6 @@
 # Dyson Sphere Program Excel
 
-Dyson Sphere Program Excel is a small helper for planning your next factory in Microsoft Excel. It contains most of the component recipes and can tell you how many inputs you require and what you will get as output.
+Dyson Sphere Program Excel is a small helper for planning your next factory in Microsoft Excel. It contains most of the component recipes and can tell you how many inputs you require and what you will get as output when using X producers.
 
 ![Screenshot 1](https://github.com/texhex/dspxl/raw/main/dspxl_screen1.png)
 
