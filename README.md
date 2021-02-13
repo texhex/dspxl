@@ -4,7 +4,7 @@ Dyson Sphere Program Excel is a small helper for planning your next factory in M
 
 ![Screenshot 1](https://github.com/texhex/dspxl/raw/main/dspxl_screen1.png)
 
-To download it, just click on the .XSLX file above and then click the “Download” button to the right.
+TL;DR: [Direct download link](https://github.com/texhex/dspxl/raw/main/DSPXL_v0.6.xlsx).
 
 It is intened to be used until someone creates a fancy pants website that will do these calculations better. Therefore, this file has several limitations.
 
